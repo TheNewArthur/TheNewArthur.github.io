@@ -6,6 +6,7 @@ body {
     background-color: coral;
     background-image: url(pictures/backgroundDragon.jpg);
     background-size: cover;
+    height: 100%;
     background-repeat: no-repeat;
 }
 
@@ -39,7 +40,7 @@ footer {
     background-color: rgba(0, 0, 139, 0.5);
     padding-top: 15px;
     padding-bottom: 15px;
-    text-align: center;
+    margin-bottom: 10px;
 }
 
 h1 {
